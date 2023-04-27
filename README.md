@@ -27,10 +27,10 @@ as count data has been saved in ./data/<tissue>/GeneCounts.
 The reference (sorAra2; GCF_000181275.1) can be download from straight 
 from NCBI, or using the code below.
 
-'''wget https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/181/275/GCF_000181275.2_SorAra2.0/ 
+```wget https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/181/275/GCF_000181275.2_SorAra2.0/ 
 GCF_000181275.2_SorAra2.0_genomic.gtf.gz ./data/
 gunzip ./gtf/GCF_000181275.2_SorAra2.0_genomic.gtf.gz
-'''
+```
 
 RNA-seq data from this project can also be found on NCBI Sequencing Read 
 Archive, <insert project accession>. The list of samples and associated 
