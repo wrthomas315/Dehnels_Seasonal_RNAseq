@@ -1,0 +1,13 @@
+{
+	"n_targets": 23525,
+	"n_bootstraps": 0,
+	"n_processed": 23784750,
+	"n_pseudoaligned": 12739611,
+	"n_unique": 10144305,
+	"p_pseudoaligned": 53.6,
+	"p_unique": 42.7,
+	"kallisto_version": "0.46.2",
+	"index_version": 10,
+	"start_time": "Wed Jan  5 20:44:06 2022",
+	"call": "kallisto quant -i /Volumes/Seagate/Bill/eve/ENSEMBL_rna/GCF_000181275.1_SorAra2.0_rna.idx -o /Users/billthomas/project_HFS/analyses/ENSoutput/HFS340 /Volumes/Seagate/Bill/eve/trimmed/HFS340_1.trimmed.fastq /Volumes/Seagate/Bill/eve/trimmed/HFS340_2.trimmed.fastq"
+}
