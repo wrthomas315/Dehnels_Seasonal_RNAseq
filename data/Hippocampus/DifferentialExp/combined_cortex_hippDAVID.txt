@@ -1,0 +1,302 @@
+Category	Term	Count	PValue	Direction	Organ
+GOTERM_MF_DIRECT	GO:0003779~actin binding	11	5.48E-05	Up	Hippocampus
+GOTERM_BP_DIRECT	GO:0050873~brown fat cell differentiation	4	0.001240002	Up	Hippocampus
+GOTERM_BP_DIRECT	GO:0031638~zymogen activation	4	0.002131872	Up	Hippocampus
+GOTERM_BP_DIRECT	GO:0032869~cellular response to insulin stimulus	5	0.003490861	Up	Hippocampus
+UP_KW_PTM	KW-0597~Phosphoprotein	70	0.003724272	Up	Hippocampus
+GOTERM_BP_DIRECT	GO:0030036~actin cytoskeleton organization	6	0.004462526	Up	Hippocampus
+GOTERM_BP_DIRECT	GO:0008542~visual learning	4	0.007666669	Up	Hippocampus
+GOTERM_MF_DIRECT	GO:0008289~lipid binding	7	0.008979684	Up	Hippocampus
+GOTERM_BP_DIRECT	GO:0042593~glucose homeostasis	5	0.011624723	Up	Hippocampus
+GOTERM_BP_DIRECT	GO:0045944~positive regulation of transcription from RNA polymerase II promoter	14	0.014424537	Up	Hippocampus
+GOTERM_MF_DIRECT	GO:0046872~metal ion binding	30	0.014578296	Up	Hippocampus
+GOTERM_BP_DIRECT	GO:0007411~axon guidance	5	0.019121738	Up	Hippocampus
+GOTERM_BP_DIRECT	GO:0045214~sarcomere organization	3	0.021907174	Up	Hippocampus
+GOTERM_BP_DIRECT	GO:0002027~regulation of heart rate	3	0.021907174	Up	Hippocampus
+GOTERM_BP_DIRECT	GO:0007613~memory	4	0.025461488	Up	Hippocampus
+GOTERM_BP_DIRECT	"GO:2000095~regulation of Wnt signaling pathway, planar cell polarity pathway"	2	0.026904476	Up	Hippocampus
+GOTERM_BP_DIRECT	GO:0060173~limb development	3	0.028103946	Up	Hippocampus
+KEGG_PATHWAY	mmu04979:Cholesterol metabolism	3	0.030858171	Up	Hippocampus
+GOTERM_BP_DIRECT	GO:0048706~embryonic skeletal system development	3	0.031435096	Up	Hippocampus
+KEGG_PATHWAY	mmu00510:N-Glycan biosynthesis	3	0.032030117	Up	Hippocampus
+GOTERM_BP_DIRECT	GO:0006777~Mo-molybdopterin cofactor biosynthetic process	2	0.032198686	Up	Hippocampus
+GOTERM_BP_DIRECT	GO:2000051~negative regulation of non-canonical Wnt signaling pathway	2	0.032198686	Up	Hippocampus
+GOTERM_BP_DIRECT	GO:0008211~glucocorticoid metabolic process	2	0.032198686	Up	Hippocampus
+GOTERM_MF_DIRECT	GO:0036041~long-chain fatty acid binding	2	0.032541064	Up	Hippocampus
+GOTERM_BP_DIRECT	GO:0031100~animal organ regeneration	3	0.033738161	Up	Hippocampus
+GOTERM_MF_DIRECT	GO:0030374~ligand-dependent nuclear receptor transcription coactivator activity	3	0.034390261	Up	Hippocampus
+GOTERM_MF_DIRECT	GO:0051015~actin filament binding	5	0.036128051	Up	Hippocampus
+GOTERM_MF_DIRECT	GO:0005244~voltage-gated ion channel activity	4	0.041312084	Up	Hippocampus
+GOTERM_BP_DIRECT	GO:0014823~response to activity	3	0.042291482	Up	Hippocampus
+KEGG_PATHWAY	mmu04122:Sulfur relay system	2	0.044158182	Up	Hippocampus
+GOTERM_BP_DIRECT	GO:0034765~regulation of ion transmembrane transport	4	0.044708778	Up	Hippocampus
+GOTERM_BP_DIRECT	GO:0006811~ion transport	8	0.044744191	Up	Hippocampus
+KEGG_PATHWAY	mmu04020:Calcium signaling pathway	5	0.045459799	Up	Hippocampus
+GOTERM_BP_DIRECT	GO:0042542~response to hydrogen peroxide	3	0.046179819	Up	Hippocampus
+KEGG_PATHWAY	mmu04141:Protein processing in endoplasmic reticulum	-11	1.32E-08	Down	Hippocampus
+UP_KW_PTM	KW-0007~Acetylation	-36	1.39E-04	Down	Hippocampus
+GOTERM_MF_DIRECT	GO:0015037~peptide disulfide oxidoreductase activity	-3	6.81E-04	Down	Hippocampus
+KEGG_PATHWAY	mmu05132:Salmonella infection	-7	0.00183366	Down	Hippocampus
+KEGG_PATHWAY	mmu05142:Chagas disease	-5	0.001928758	Down	Hippocampus
+GOTERM_BP_DIRECT	GO:0006457~protein folding	-5	0.002011947	Down	Hippocampus
+GOTERM_MF_DIRECT	GO:0051087~chaperone binding	-5	0.002666039	Down	Hippocampus
+GOTERM_MF_DIRECT	GO:0005515~protein binding	-40	0.004648809	Down	Hippocampus
+KEGG_PATHWAY	mmu05417:Lipid and atherosclerosis	-6	0.004990335	Down	Hippocampus
+UP_KW_PTM	KW-1017~Isopeptide bond	-19	0.005184097	Down	Hippocampus
+GOTERM_BP_DIRECT	GO:0030512~negative regulation of transforming growth factor beta receptor signaling pathway	-4	0.005631969	Down	Hippocampus
+KEGG_PATHWAY	mmu04918:Thyroid hormone synthesis	-4	0.006550196	Down	Hippocampus
+KEGG_PATHWAY	mmu05418:Fluid shear stress and atherosclerosis	-5	0.007066033	Down	Hippocampus
+GOTERM_BP_DIRECT	GO:0030433~ubiquitin-dependent ERAD pathway	-4	0.007510416	Down	Hippocampus
+GOTERM_MF_DIRECT	GO:0031072~heat shock protein binding	-4	0.007561582	Down	Hippocampus
+GOTERM_MF_DIRECT	GO:0015035~protein disulfide oxidoreductase activity	-3	0.008026584	Down	Hippocampus
+GOTERM_BP_DIRECT	GO:0006397~mRNA processing	-7	0.008058629	Down	Hippocampus
+GOTERM_BP_DIRECT	GO:0006915~apoptotic process	-9	0.008236075	Down	Hippocampus
+UP_KW_PTM	KW-0597~Phosphoprotein	-60	0.008752158	Down	Hippocampus
+GOTERM_MF_DIRECT	GO:0051082~unfolded protein binding	-4	0.01074935	Down	Hippocampus
+GOTERM_BP_DIRECT	GO:0008380~RNA splicing	-6	0.011025311	Down	Hippocampus
+GOTERM_BP_DIRECT	GO:0010976~positive regulation of neuron projection development	-5	0.011476681	Down	Hippocampus
+KEGG_PATHWAY	mmu05200:Pathways in cancer	-8	0.020798937	Down	Hippocampus
+KEGG_PATHWAY	mmu04071:Sphingolipid signaling pathway	-4	0.026188051	Down	Hippocampus
+GOTERM_BP_DIRECT	GO:0006487~protein N-linked glycosylation	-3	0.027196892	Down	Hippocampus
+GOTERM_BP_DIRECT	GO:0042149~cellular response to glucose starvation	-3	0.028174134	Down	Hippocampus
+GOTERM_BP_DIRECT	GO:0030968~endoplasmic reticulum unfolded protein response	-3	0.028174134	Down	Hippocampus
+GOTERM_MF_DIRECT	GO:0016853~isomerase activity	-4	0.029210368	Down	Hippocampus
+GOTERM_BP_DIRECT	GO:1901164~negative regulation of trophoblast cell migration	-2	0.029226553	Down	Hippocampus
+GOTERM_BP_DIRECT	GO:1903895~negative regulation of IRE1-mediated unfolded protein response	-2	0.029226553	Down	Hippocampus
+GOTERM_BP_DIRECT	GO:0009968~negative regulation of signal transduction	-3	0.030170372	Down	Hippocampus
+KEGG_PATHWAY	mmu04728:Dopaminergic synapse	-4	0.032557981	Down	Hippocampus
+KEGG_PATHWAY	mmu04210:Apoptosis	-4	0.033173909	Down	Hippocampus
+GOTERM_BP_DIRECT	GO:0071474~cellular hyperosmotic response	-2	0.034014768	Down	Hippocampus
+GOTERM_BP_DIRECT	GO:0006986~response to unfolded protein	-3	0.034325458	Down	Hippocampus
+GOTERM_MF_DIRECT	GO:0003723~RNA binding	-10	0.042134242	Down	Hippocampus
+GOTERM_BP_DIRECT	"GO:0031204~posttranslational protein targeting to membrane, translocation"	-2	0.043521184	Down	Hippocampus
+KEGG_PATHWAY	mmu05020:Prion disease	-5	0.049422774	Down	Hippocampus
+GOTERM_BP_DIRECT	GO:0042493~response to drug	7	1.40E-04	Up	Cortex
+GOTERM_BP_DIRECT	GO:0035810~positive regulation of urine volume	3	6.00E-04	Up	Cortex
+GOTERM_BP_DIRECT	GO:0035815~positive regulation of renal sodium excretion	3	6.00E-04	Up	Cortex
+GOTERM_BP_DIRECT	GO:0060134~prepulse inhibition	3	8.70E-04	Up	Cortex
+GOTERM_BP_DIRECT	GO:0051481~negative regulation of cytosolic calcium ion concentration	3	0.001188576	Up	Cortex
+GOTERM_BP_DIRECT	GO:0060384~innervation	3	0.001305401	Up	Cortex
+GOTERM_BP_DIRECT	GO:0007626~locomotory behavior	4	0.00284844	Up	Cortex
+UP_KW_PTM	KW-1015~Disulfide bond	19	0.002966179	Up	Cortex
+GOTERM_BP_DIRECT	GO:0008285~negative regulation of cell proliferation	6	0.004009757	Up	Cortex
+GOTERM_BP_DIRECT	GO:0051482~positive regulation of cytosolic calcium ion concentration involved in phospholipase C-activating G-protein coupled signaling pathway	3	0.004078326	Up	Cortex
+KEGG_PATHWAY	mmu05216:Thyroid cancer	3	0.004342917	Up	Cortex
+GOTERM_BP_DIRECT	GO:0001975~response to amphetamine	3	0.004716787	Up	Cortex
+GOTERM_BP_DIRECT	GO:0090325~regulation of locomotion involved in locomotory behavior	2	0.004874203	Up	Cortex
+GOTERM_CC_DIRECT	GO:0045177~apical part of cell	4	0.005486914	Up	Cortex
+GOTERM_BP_DIRECT	GO:0046717~acid secretion	2	0.007302573	Up	Cortex
+GOTERM_MF_DIRECT	"GO:0001591~dopamine neurotransmitter receptor activity, coupled via Gi/Go"	2	0.007330951	Up	Cortex
+GOTERM_CC_DIRECT	GO:0030424~axon	6	0.007989045	Up	Cortex
+GOTERM_MF_DIRECT	GO:0005509~calcium ion binding	7	0.008440749	Up	Cortex
+GOTERM_BP_DIRECT	GO:0007165~signal transduction	9	0.008704076	Up	Cortex
+GOTERM_BP_DIRECT	GO:0034776~response to histamine	2	0.00972514	Up	Cortex
+GOTERM_BP_DIRECT	GO:0060160~negative regulation of dopamine receptor signaling pathway	2	0.00972514	Up	Cortex
+GOTERM_MF_DIRECT	GO:0050436~microfibril binding	2	0.009762904	Up	Cortex
+GOTERM_BP_DIRECT	GO:0043524~negative regulation of neuron apoptotic process	4	0.010378147	Up	Cortex
+GOTERM_BP_DIRECT	GO:0051580~regulation of neurotransmitter uptake	2	0.012141918	Up	Cortex
+GOTERM_BP_DIRECT	GO:0007195~adenylate cyclase-inhibiting dopamine receptor signaling pathway	2	0.012141918	Up	Cortex
+GOTERM_MF_DIRECT	GO:0004952~dopamine neurotransmitter receptor activity	2	0.01218903	Up	Cortex
+UP_KW_PTM	KW-0325~Glycoprotein	20	0.012687691	Up	Cortex
+KEGG_PATHWAY	mmu04080:Neuroactive ligand-receptor interaction	5	0.016778846	Up	Cortex
+GOTERM_CC_DIRECT	GO:0030672~synaptic vesicle membrane	3	0.018727277	Up	Cortex
+GOTERM_BP_DIRECT	GO:0060158~phospholipase C-activating dopamine receptor signaling pathway	2	0.019357653	Up	Cortex
+GOTERM_BP_DIRECT	GO:0043266~regulation of potassium ion transport	2	0.019357653	Up	Cortex
+GOTERM_BP_DIRECT	GO:0007275~multicellular organism development	8	0.019390287	Up	Cortex
+GOTERM_MF_DIRECT	GO:0005515~protein binding	21	0.021083008	Up	Cortex
+GOTERM_BP_DIRECT	GO:1901386~negative regulation of voltage-gated calcium channel activity	2	0.028898403	Up	Cortex
+GOTERM_BP_DIRECT	GO:0060124~positive regulation of growth hormone secretion	2	0.028898403	Up	Cortex
+SMART	SM01330:SM01330	2	0.031777364	Up	Cortex
+GOTERM_BP_DIRECT	GO:0007194~negative regulation of adenylate cyclase activity	2	0.035994261	Up	Cortex
+GOTERM_BP_DIRECT	GO:0002031~G-protein coupled receptor internalization	2	0.035994261	Up	Cortex
+GOTERM_BP_DIRECT	"GO:0051967~negative regulation of synaptic transmission, glutamatergic"	2	0.035994261	Up	Cortex
+GOTERM_MF_DIRECT	GO:0042813~Wnt-activated receptor activity	2	0.036132854	Up	Cortex
+GOTERM_BP_DIRECT	GO:0042417~dopamine metabolic process	2	0.040696602	Up	Cortex
+GOTERM_BP_DIRECT	GO:0071880~adenylate cyclase-activating adrenergic receptor signaling pathway	2	0.040696602	Up	Cortex
+GOTERM_BP_DIRECT	GO:0048485~sympathetic nervous system development	2	0.043039342	Up	Cortex
+GOTERM_BP_DIRECT	GO:0016082~synaptic vesicle priming	2	0.047708029	Up	Cortex
+GOTERM_BP_DIRECT	GO:0050965~detection of temperature stimulus involved in sensory perception of pain	2	0.047708029	Up	Cortex
+GOTERM_BP_DIRECT	GO:0050709~negative regulation of protein secretion	2	0.050034002	Up	Cortex
+GOTERM_BP_DIRECT	GO:0009410~response to xenobiotic stimulus	3	0.051244585	Up	Cortex
+KEGG_PATHWAY	mmu04550:Signaling pathways regulating pluripotency of stem cells	3	0.053675358	Up	Cortex
+KEGG_PATHWAY	mmu05200:Pathways in cancer	5	0.054328079	Up	Cortex
+GOTERM_BP_DIRECT	GO:0048148~behavioral response to cocaine	2	0.054669271	Up	Cortex
+GOTERM_BP_DIRECT	GO:0001964~startle response	2	0.054669271	Up	Cortex
+GOTERM_BP_DIRECT	GO:0035567~non-canonical Wnt signaling pathway	2	0.056978593	Up	Cortex
+SMART	SM00063:FRI	2	0.057048089	Up	Cortex
+GOTERM_BP_DIRECT	GO:0050482~arachidonic acid secretion	2	0.059282391	Up	Cortex
+KEGG_PATHWAY	mmu05226:Gastric cancer	3	0.060661279	Up	Cortex
+GOTERM_BP_DIRECT	GO:0016079~synaptic vesicle exocytosis	2	0.061580678	Up	Cortex
+GOTERM_CC_DIRECT	GO:0030425~dendrite	5	0.062812218	Up	Cortex
+GOTERM_CC_DIRECT	GO:0031410~cytoplasmic vesicle	6	0.063495193	Up	Cortex
+GOTERM_CC_DIRECT	GO:0045202~synapse	6	0.066559244	Up	Cortex
+GOTERM_BP_DIRECT	GO:0014059~regulation of dopamine secretion	2	0.068442601	Up	Cortex
+GOTERM_MF_DIRECT	GO:0017147~Wnt-protein binding	2	0.068703278	Up	Cortex
+GOTERM_BP_DIRECT	GO:0010976~positive regulation of neuron projection development	3	0.069376735	Up	Cortex
+GOTERM_BP_DIRECT	GO:1900273~positive regulation of long-term synaptic potentiation	2	0.072989896	Up	Cortex
+GOTERM_BP_DIRECT	GO:0045944~positive regulation of transcription from RNA polymerase II promoter	7	0.073267984	Up	Cortex
+GOTERM_BP_DIRECT	GO:0021983~pituitary gland development	2	0.075255386	Up	Cortex
+GOTERM_BP_DIRECT	"GO:0006355~regulation of transcription, DNA-templated"	7	0.076060674	Up	Cortex
+GOTERM_BP_DIRECT	GO:0043410~positive regulation of MAPK cascade	3	0.078414828	Up	Cortex
+GOTERM_BP_DIRECT	GO:0030182~neuron differentiation	3	0.079124917	Up	Cortex
+GOTERM_BP_DIRECT	GO:0043278~response to morphine	2	0.079770114	Up	Cortex
+GOTERM_BP_DIRECT	"GO:0051968~positive regulation of synaptic transmission, glutamatergic"	2	0.079770114	Up	Cortex
+GOTERM_CC_DIRECT	GO:0016020~membrane	23	0.083578775	Up	Cortex
+GOTERM_BP_DIRECT	GO:0086091~regulation of heart rate by cardiac conduction	2	0.086501766	Up	Cortex
+GOTERM_BP_DIRECT	GO:0007166~cell surface receptor signaling pathway	3	0.090014859	Up	Cortex
+GOTERM_BP_DIRECT	GO:0045776~negative regulation of blood pressure	2	0.090962722	Up	Cortex
+GOTERM_BP_DIRECT	"GO:0035249~synaptic transmission, glutamatergic"	2	0.093185194	Up	Cortex
+GOTERM_BP_DIRECT	GO:0045595~regulation of cell differentiation	2	0.093185194	Up	Cortex
+GOTERM_CC_DIRECT	GO:0005886~plasma membrane	20	0.093755816	Up	Cortex
+GOTERM_BP_DIRECT	GO:0048678~response to axon injury	2	0.095402345	Up	Cortex
+GOTERM_BP_DIRECT	GO:0030154~cell differentiation	6	0.0963325	Up	Cortex
+GOTERM_BP_DIRECT	GO:0035094~response to nicotine	2	0.097614188	Up	Cortex
+GOTERM_CC_DIRECT	GO:0005576~extracellular region	-28	4.50E-13	Down	Cortex
+GOTERM_CC_DIRECT	GO:0005615~extracellular space	-27	1.33E-11	Down	Cortex
+GOTERM_BP_DIRECT	GO:0007596~blood coagulation	-6	4.58E-06	Down	Cortex
+UP_KW_PTM	KW-1015~Disulfide bond	-31	1.08E-05	Down	Cortex
+GOTERM_BP_DIRECT	GO:0042632~cholesterol homeostasis	-6	1.39E-05	Down	Cortex
+KEGG_PATHWAY	mmu03320:PPAR signaling pathway	-6	6.24E-05	Down	Cortex
+GOTERM_MF_DIRECT	GO:0005319~lipid transporter activity	-4	7.37E-05	Down	Cortex
+KEGG_PATHWAY	mmu04610:Complement and coagulation cascades	-6	7.70E-05	Down	Cortex
+KEGG_PATHWAY	mmu04979:Cholesterol metabolism	-5	8.40E-05	Down	Cortex
+GOTERM_BP_DIRECT	GO:0010043~response to zinc ion	-4	1.59E-04	Down	Cortex
+GOTERM_BP_DIRECT	GO:0006641~triglyceride metabolic process	-4	2.58E-04	Down	Cortex
+UP_KW_PTM	KW-0325~Glycoprotein	-32	2.59E-04	Down	Cortex
+GOTERM_BP_DIRECT	GO:0071377~cellular response to glucagon stimulus	-3	2.62E-04	Down	Cortex
+GOTERM_BP_DIRECT	GO:0006855~drug transmembrane transport	-3	2.62E-04	Down	Cortex
+GOTERM_BP_DIRECT	GO:0007599~hemostasis	-4	3.92E-04	Down	Cortex
+GOTERM_BP_DIRECT	GO:0000050~urea cycle	-3	4.19E-04	Down	Cortex
+GOTERM_BP_DIRECT	GO:0008203~cholesterol metabolic process	-5	4.78E-04	Down	Cortex
+GOTERM_MF_DIRECT	GO:0005543~phospholipid binding	-5	5.25E-04	Down	Cortex
+GOTERM_BP_DIRECT	GO:0031100~animal organ regeneration	-4	5.95E-04	Down	Cortex
+GOTERM_CC_DIRECT	GO:0042627~chylomicron	-3	6.67E-04	Down	Cortex
+UP_KW_PTM	KW-0165~Cleavage on pair of basic residues	-7	9.37E-04	Down	Cortex
+GOTERM_BP_DIRECT	GO:0042730~fibrinolysis	-3	9.68E-04	Down	Cortex
+GOTERM_BP_DIRECT	GO:0055091~phospholipid homeostasis	-3	0.001248317	Down	Cortex
+GOTERM_CC_DIRECT	GO:0009986~cell surface	-9	0.001817322	Down	Cortex
+GOTERM_BP_DIRECT	GO:0071347~cellular response to interleukin-1	-4	0.002038077	Down	Cortex
+GOTERM_MF_DIRECT	GO:0008201~heparin binding	-5	0.002169024	Down	Cortex
+GOTERM_MF_DIRECT	GO:0042802~identical protein binding	-15	0.002967841	Down	Cortex
+GOTERM_BP_DIRECT	GO:0006094~gluconeogenesis	-3	0.003394347	Down	Cortex
+GOTERM_BP_DIRECT	GO:0042493~response to drug	-6	0.003465982	Down	Cortex
+GOTERM_CC_DIRECT	GO:0034361~very-low-density lipoprotein particle	-3	0.003598744	Down	Cortex
+KEGG_PATHWAY	mmu00010:Glycolysis / Gluconeogenesis	-4	0.004007141	Down	Cortex
+GOTERM_MF_DIRECT	GO:0031210~phosphatidylcholine binding	-3	0.004026079	Down	Cortex
+KEGG_PATHWAY	mmu00220:Arginine biosynthesis	-3	0.004063209	Down	Cortex
+GOTERM_BP_DIRECT	GO:0042157~lipoprotein metabolic process	-3	0.004418648	Down	Cortex
+GOTERM_BP_DIRECT	GO:0015721~bile acid and bile salt transport	-3	0.004418648	Down	Cortex
+GOTERM_CC_DIRECT	GO:0034364~high-density lipoprotein particle	-3	0.004875591	Down	Cortex
+GOTERM_BP_DIRECT	GO:0035025~positive regulation of Rho protein signal transduction	-3	0.005269071	Down	Cortex
+GOTERM_BP_DIRECT	GO:0055081~anion homeostasis	-2	0.00619225	Down	Cortex
+KEGG_PATHWAY	mmu01230:Biosynthesis of amino acids	-4	0.006355779	Down	Cortex
+UP_KW_PTM	KW-0558~Oxidation	-3	0.006850844	Down	Cortex
+GOTERM_CC_DIRECT	GO:0043231~intracellular membrane-bounded organelle	-10	0.00687272	Down	Cortex
+GOTERM_BP_DIRECT	GO:0008202~steroid metabolic process	-4	0.007357374	Down	Cortex
+GOTERM_BP_DIRECT	GO:0042594~response to starvation	-3	0.007519383	Down	Cortex
+GOTERM_BP_DIRECT	GO:0015914~phospholipid transport	-3	0.007519383	Down	Cortex
+GOTERM_CC_DIRECT	GO:0005783~endoplasmic reticulum	-12	0.007680877	Down	Cortex
+GOTERM_MF_DIRECT	GO:0004857~enzyme inhibitor activity	-3	0.007778043	Down	Cortex
+GOTERM_BP_DIRECT	GO:0006869~lipid transport	-4	0.008684324	Down	Cortex
+GOTERM_BP_DIRECT	GO:0071549~cellular response to dexamethasone stimulus	-3	0.008967538	Down	Cortex
+GOTERM_BP_DIRECT	GO:0046618~drug export	-2	0.009274216	Down	Cortex
+GOTERM_MF_DIRECT	GO:0070653~high-density lipoprotein particle receptor binding	-2	0.009442091	Down	Cortex
+GOTERM_MF_DIRECT	GO:0005102~receptor binding	-6	0.011170765	Down	Cortex
+GOTERM_BP_DIRECT	GO:0010903~negative regulation of very-low-density lipoprotein particle remodeling	-2	0.012346781	Down	Cortex
+GOTERM_BP_DIRECT	GO:0051919~positive regulation of fibrinolysis	-2	0.012346781	Down	Cortex
+GOTERM_BP_DIRECT	GO:0060192~negative regulation of lipase activity	-2	0.012346781	Down	Cortex
+GOTERM_BP_DIRECT	GO:0018206~peptidyl-methionine modification	-2	0.012346781	Down	Cortex
+GOTERM_BP_DIRECT	GO:0034197~triglyceride transport	-2	0.012346781	Down	Cortex
+GOTERM_MF_DIRECT	GO:0034190~apolipoprotein receptor binding	-2	0.012569941	Down	Cortex
+GOTERM_BP_DIRECT	GO:0055088~lipid homeostasis	-3	0.012639114	Down	Cortex
+GOTERM_CC_DIRECT	GO:0046691~intracellular canaliculus	-2	0.014806062	Down	Cortex
+BIOCARTA	m_intrinsicPathway:Intrinsic Prothrombin Activation Pathway	-3	0.015263606	Down	Cortex
+GOTERM_BP_DIRECT	GO:0006570~tyrosine metabolic process	-2	0.015409972	Down	Cortex
+GOTERM_BP_DIRECT	GO:0002719~negative regulation of cytokine production involved in immune response	-2	0.015409972	Down	Cortex
+GOTERM_BP_DIRECT	GO:0018158~protein oxidation	-2	0.015409972	Down	Cortex
+GOTERM_BP_DIRECT	GO:0030300~regulation of intestinal cholesterol absorption	-2	0.015409972	Down	Cortex
+GOTERM_MF_DIRECT	GO:0060228~phosphatidylcholine-sterol O-acyltransferase activator activity	-2	0.015688085	Down	Cortex
+UP_KW_PTM	KW-0865~Zymogen	-5	0.017559671	Down	Cortex
+GOTERM_CC_DIRECT	GO:0030868~smooth endoplasmic reticulum membrane	-2	0.017741287	Down	Cortex
+SMART	SM00103:ALBUMIN	-2	0.01783322	Down	Cortex
+GOTERM_BP_DIRECT	GO:0008152~metabolic process	-4	0.018129696	Down	Cortex
+GOTERM_BP_DIRECT	GO:0015722~canalicular bile acid transport	-2	0.018463818	Down	Cortex
+GOTERM_MF_DIRECT	GO:0008289~lipid binding	-5	0.019110064	Down	Cortex
+GOTERM_BP_DIRECT	GO:0032496~response to lipopolysaccharide	-4	0.020047301	Down	Cortex
+KEGG_PATHWAY	mmu01200:Carbon metabolism	-4	0.020138112	Down	Cortex
+GOTERM_BP_DIRECT	GO:0006572~tyrosine catabolic process	-2	0.021508347	Down	Cortex
+GOTERM_BP_DIRECT	GO:0051918~negative regulation of fibrinolysis	-2	0.021508347	Down	Cortex
+GOTERM_BP_DIRECT	GO:0051180~vitamin transport	-2	0.021508347	Down	Cortex
+GOTERM_MF_DIRECT	GO:0055102~lipase inhibitor activity	-2	0.021895369	Down	Cortex
+GOTERM_BP_DIRECT	GO:0007568~aging	-4	0.022671586	Down	Cortex
+GOTERM_BP_DIRECT	GO:0034380~high-density lipoprotein particle assembly	-2	0.024543587	Down	Cortex
+GOTERM_CC_DIRECT	GO:0031526~brush border membrane	-3	0.024886927	Down	Cortex
+GOTERM_MF_DIRECT	GO:0072341~modified amino acid binding	-2	0.024984569	Down	Cortex
+GOTERM_BP_DIRECT	GO:0034097~response to cytokine	-3	0.025009823	Down	Cortex
+GOTERM_CC_DIRECT	GO:0034366~spherical high-density lipoprotein particle	-2	0.026495433	Down	Cortex
+GOTERM_BP_DIRECT	GO:0050996~positive regulation of lipid catabolic process	-2	0.027569565	Down	Cortex
+GOTERM_BP_DIRECT	GO:0006559~L-phenylalanine catabolic process	-2	0.027569565	Down	Cortex
+GOTERM_BP_DIRECT	"GO:0007597~blood coagulation, intrinsic pathway"	-2	0.027569565	Down	Cortex
+GOTERM_BP_DIRECT	GO:0006629~lipid metabolic process	-6	0.028434746	Down	Cortex
+GOTERM_CC_DIRECT	GO:0046581~intercellular canaliculus	-2	0.029396389	Down	Cortex
+GOTERM_BP_DIRECT	GO:0006954~inflammatory response	-5	0.029949026	Down	Cortex
+GOTERM_BP_DIRECT	GO:0010873~positive regulation of cholesterol esterification	-2	0.03058631	Down	Cortex
+GOTERM_BP_DIRECT	GO:0007494~midgut development	-2	0.03058631	Down	Cortex
+GOTERM_MF_DIRECT	GO:0003824~catalytic activity	-5	0.03267148	Down	Cortex
+GOTERM_BP_DIRECT	GO:0006000~fructose metabolic process	-2	0.033593849	Down	Cortex
+GOTERM_BP_DIRECT	"GO:0030388~fructose 1,6-bisphosphate metabolic process"	-2	0.033593849	Down	Cortex
+GOTERM_BP_DIRECT	GO:0051006~positive regulation of lipoprotein lipase activity	-2	0.033593849	Down	Cortex
+GOTERM_BP_DIRECT	GO:0030193~regulation of blood coagulation	-2	0.033593849	Down	Cortex
+GOTERM_MF_DIRECT	GO:0008035~high-density lipoprotein particle binding	-2	0.034194752	Down	Cortex
+KEGG_PATHWAY	mmu01100:Metabolic pathways	-14	0.034891122	Down	Cortex
+GOTERM_CC_DIRECT	GO:0016324~apical plasma membrane	-5	0.03646111	Down	Cortex
+GOTERM_BP_DIRECT	GO:0031639~plasminogen activation	-2	0.03659221	Down	Cortex
+GOTERM_BP_DIRECT	GO:0010898~positive regulation of triglyceride catabolic process	-2	0.03659221	Down	Cortex
+GOTERM_BP_DIRECT	GO:0016525~negative regulation of angiogenesis	-3	0.039260107	Down	Cortex
+GOTERM_BP_DIRECT	GO:0014075~response to amine	-2	0.039581421	Down	Cortex
+GOTERM_BP_DIRECT	GO:0034375~high-density lipoprotein particle remodeling	-2	0.039581421	Down	Cortex
+GOTERM_BP_DIRECT	GO:0034374~low-density lipoprotein particle remodeling	-2	0.039581421	Down	Cortex
+GOTERM_MF_DIRECT	GO:1901612~cardiolipin binding	-2	0.040287317	Down	Cortex
+GOTERM_MF_DIRECT	GO:0042803~protein homodimerization activity	-7	0.040576131	Down	Cortex
+GOTERM_CC_DIRECT	GO:0005743~mitochondrial inner membrane	-5	0.040920095	Down	Cortex
+GOTERM_BP_DIRECT	GO:0001889~liver development	-3	0.042116497	Down	Cortex
+GOTERM_CC_DIRECT	GO:0005789~endoplasmic reticulum membrane	-7	0.042385513	Down	Cortex
+GOTERM_BP_DIRECT	GO:0033700~phospholipid efflux	-2	0.042561508	Down	Cortex
+GOTERM_BP_DIRECT	"GO:0006957~complement activation, alternative pathway"	-2	0.042561508	Down	Cortex
+GOTERM_MF_DIRECT	GO:0042301~phosphate ion binding	-2	0.043319419	Down	Cortex
+GOTERM_BP_DIRECT	GO:0070365~hepatocyte differentiation	-2	0.045532499	Down	Cortex
+GOTERM_BP_DIRECT	GO:0030195~negative regulation of blood coagulation	-2	0.045532499	Down	Cortex
+GOTERM_BP_DIRECT	GO:0042060~wound healing	-3	0.046542578	Down	Cortex
+GOTERM_BP_DIRECT	GO:0045820~negative regulation of glycolytic process	-2	0.048494422	Down	Cortex
+GOTERM_BP_DIRECT	GO:0070885~negative regulation of calcineurin-NFAT signaling cascade	-2	0.048494422	Down	Cortex
+GOTERM_BP_DIRECT	GO:0006656~phosphatidylcholine biosynthetic process	-2	0.051447304	Down	Cortex
+GOTERM_BP_DIRECT	GO:0008206~bile acid metabolic process	-2	0.051447304	Down	Cortex
+GOTERM_MF_DIRECT	GO:0008559~xenobiotic-transporting ATPase activity	-2	0.052359351	Down	Cortex
+GOTERM_CC_DIRECT	GO:0031012~extracellular matrix	-4	0.053217015	Down	Cortex
+GOTERM_MF_DIRECT	GO:0005201~extracellular matrix structural constituent	-3	0.055187274	Down	Cortex
+GOTERM_BP_DIRECT	GO:0043691~reverse cholesterol transport	-2	0.057326051	Down	Cortex
+GOTERM_MF_DIRECT	GO:0034185~apolipoprotein binding	-2	0.05833928	Down	Cortex
+GOTERM_MF_DIRECT	GO:0030414~peptidase inhibitor activity	-3	0.060149533	Down	Cortex
+GOTERM_BP_DIRECT	GO:0010466~negative regulation of peptidase activity	-3	0.0607705	Down	Cortex
+GOTERM_BP_DIRECT	GO:0071222~cellular response to lipopolysaccharide	-4	0.063130156	Down	Cortex
+GOTERM_MF_DIRECT	GO:0019899~enzyme binding	-5	0.065173551	Down	Cortex
+GOTERM_BP_DIRECT	GO:0030301~cholesterol transport	-2	0.066077039	Down	Cortex
+GOTERM_BP_DIRECT	GO:0009395~phospholipid catabolic process	-2	0.06897624	Down	Cortex
+GOTERM_CC_DIRECT	GO:0030018~Z disc	-3	0.069503802	Down	Cortex
+GOTERM_BP_DIRECT	GO:0010596~negative regulation of endothelial cell migration	-2	0.071866589	Down	Cortex
+GOTERM_CC_DIRECT	GO:0016327~apicolateral plasma membrane	-2	0.071903667	Down	Cortex
+GOTERM_BP_DIRECT	GO:0071356~cellular response to tumor necrosis factor	-3	0.074495477	Down	Cortex
+GOTERM_BP_DIRECT	GO:0015711~organic anion transport	-2	0.07474811	Down	Cortex
+GOTERM_BP_DIRECT	GO:0006520~cellular amino acid metabolic process	-2	0.07474811	Down	Cortex
+GOTERM_BP_DIRECT	GO:0032094~response to food	-2	0.077620832	Down	Cortex
+GOTERM_BP_DIRECT	GO:0006508~proteolysis	-5	0.080637462	Down	Cortex
+KEGG_PATHWAY	mmu04976:Bile secretion	-3	0.083220624	Down	Cortex
+GOTERM_BP_DIRECT	GO:0006810~transport	-2	0.086186462	Down	Cortex
+GOTERM_BP_DIRECT	GO:0019915~lipid storage	-2	0.086186462	Down	Cortex
+KEGG_PATHWAY	mmu04922:Glucagon signaling pathway	-3	0.08898459	Down	Cortex
+GOTERM_BP_DIRECT	GO:0033344~cholesterol efflux	-2	0.089024248	Down	Cortex
+GOTERM_MF_DIRECT	GO:0016829~lyase activity	-3	0.090860368	Down	Cortex
+GOTERM_MF_DIRECT	GO:0002020~protease binding	-3	0.091822933	Down	Cortex
+KEGG_PATHWAY	mmu05146:Amoebiasis	-3	0.093384531	Down	Cortex
+GOTERM_MF_DIRECT	GO:0016597~amino acid binding	-2	0.093447852	Down	Cortex
+KEGG_PATHWAY	mmu04931:Insulin resistance	-3	0.097847467	Down	Cortex
