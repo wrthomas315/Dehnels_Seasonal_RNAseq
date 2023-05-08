@@ -17,12 +17,12 @@ and identify correlation between network structure and traits. Throughout
 the analysis, we will look at resultant genes and test whether they enrich 
 KEGG pathways using DAVID Functional Enrichment Tools.
 
-###Data
+### Data
 
 RNA-seq analyses require alignment to a reference and quantification of 
 reads. The genome and original unfiltered reads can be downloaded as 
 described below. However, these steps could be skipped when reproducing, 
-as count data has been saved in ./data/<tissue>/GeneCounts.
+as count data has been saved in ./data/TISSUE/GeneCounts.
 
 The reference (sorAra2; GCF_000181275.1) can be download from straight 
 from NCBI, or using the code below.
@@ -37,5 +37,5 @@ Archive, <insert project accession>. The list of samples and associated
 accession numbers can be found in the data folder. These can be downloaded 
 manually, or using the getter.sh script.
 
-###Quality control, filtering, trimming
+### Quality control, filtering, trimming
 
